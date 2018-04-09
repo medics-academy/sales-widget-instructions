@@ -1,5 +1,7 @@
 # Course widget implementation instructions
 
+![alt text](http://i63.tinypic.com/esjh4m.png)
+
 ## Purpose:
 This document will give you a step-by-step guide on how to insert a course card widget on your website. Such as this example below:
 
@@ -47,4 +49,4 @@ This allows you to place Medics.Academy content easily into your web presence so
    
    ![alt text](http://i63.tinypic.com/245wkyt.png)
    
-   6) Now, you should be all set and see the course card widget implemented on your website.
+6) Now, you should be all set and see the course card widget implemented on your website.
