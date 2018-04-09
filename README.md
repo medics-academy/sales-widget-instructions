@@ -21,8 +21,12 @@ This allows you to place Medics.Academy content easily into your web presence so
 
    https://plnkr.co/edit/veScHEOq1o6VOvvk1QZ2?p=preview
 
-This will lead to a plunker with an example of implementation. 
+   This will lead to a plunker with an example of implementation. 
 
 2) On the left side of the screen, there is the code that generates the widget (as shown below):
 
 ![alt text](http://i64.tinypic.com/rlb8zd.png)
+
+3) On the right side, you can see the result (as shown below):
+
+![alt text](http://i67.tinypic.com/2iuswb4.png)
