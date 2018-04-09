@@ -23,6 +23,6 @@ This allows you to place Medics.Academy content easily into your web presence so
 
 This will lead to a plunker with an example of implementation. 
 
-On the left side of the screen, there is the code that generates the widget (as shown below):
+2) On the left side of the screen, there is the code that generates the widget (as shown below):
 
 ![alt text](http://i64.tinypic.com/rlb8zd.png)
