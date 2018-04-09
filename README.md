@@ -1,5 +1,6 @@
 # Course widget implementation instructions
 
+
 ![alt text](http://i63.tinypic.com/esjh4m.png)
 
 ## Purpose:
