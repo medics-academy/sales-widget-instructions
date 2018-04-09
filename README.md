@@ -19,7 +19,7 @@ This allows you to place Medics.Academy content easily into your web presence so
 
 1) To start, click or copy and paste the link below into your web browser: 
 
-https://plnkr.co/edit/veScHEOq1o6VOvvk1QZ2?p=preview
+   https://plnkr.co/edit/veScHEOq1o6VOvvk1QZ2?p=preview
 
 This will lead to a plunker with an example of implementation. 
 
