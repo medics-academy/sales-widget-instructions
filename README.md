@@ -34,3 +34,9 @@ This allows you to place Medics.Academy content easily into your web presence so
 4) To get the code up and running on your website, simply copy the <script></script> tag and everything that is inside it (as shown below) and paste it within your website’s html <head></head> tags;
 
 ![alt text](http://i68.tinypic.com/30rry91.png)
+
+5) Once this is done, copy the actual card element and paste it anywhere you want the card to show on your website. 
+
+   The card can come in two different sizes, choose the one that suits you best:
+   
+#### Small card
