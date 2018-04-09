@@ -40,3 +40,11 @@ This allows you to place Medics.Academy content easily into your web presence so
    The card can come in two different sizes, choose the one that suits you best:
    
    #### Small card
+   
+   ![alt text](http://i63.tinypic.com/2ah8xft.png)
+   
+   #### Large card
+   
+   ![alt text](http://i63.tinypic.com/245wkyt.png)
+   
+   6) Now, you should be all set and see the course card widget implemented on your website.
