@@ -30,3 +30,7 @@ This allows you to place Medics.Academy content easily into your web presence so
 3) On the right side, you can see the result (as shown below):
 
 ![alt text](http://i67.tinypic.com/2iuswb4.png)
+
+4) To get the code up and running on your website, simply copy the <script></script> tag and everything that is inside it (as shown below) and paste it within your website’s html <head></head> tags;
+
+![alt text](http://i68.tinypic.com/30rry91.png)
