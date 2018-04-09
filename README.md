@@ -17,10 +17,12 @@ This allows you to place Medics.Academy content easily into your web presence so
 
 ## How to do it?
 
-1) To start, click or copy and paste the link below into your web browser: 
+1)To start, click or copy and paste the link below into your web browser: 
 
 https://plnkr.co/edit/veScHEOq1o6VOvvk1QZ2?p=preview
 
 This will lead to a plunker with an example of implementation. 
 
 On the left side of the screen, there is the code that generates the widget (as shown below):
+
+![alt text](http://i64.tinypic.com/rlb8zd.png)
