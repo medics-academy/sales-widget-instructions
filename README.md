@@ -39,4 +39,4 @@ This allows you to place Medics.Academy content easily into your web presence so
 
    The card can come in two different sizes, choose the one that suits you best:
    
-####   Small card
+   #### Small card
