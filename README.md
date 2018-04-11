@@ -1,4 +1,4 @@
-<p style="font-size=32">Medics Academy</p>
+<p style="font-size=32px">Medics Academy</p>
 
 <hr>
 
