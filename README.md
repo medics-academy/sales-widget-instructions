@@ -29,7 +29,7 @@ This allows you to place Medics.Academy content easily into your web presence so
    
 ### How to do it?
 
-1) Place the following _<script>_ near the end of your pages, right before the closing `</body>` tag, to enable it. 
+1) Place the following `<script>...</script>` near the end of your pages, right before the closing `</body>` tag, to enable it. 
 
 ```javascript
     <script>
