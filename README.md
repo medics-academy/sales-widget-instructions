@@ -12,7 +12,7 @@ This allows you to place Medics.Academy content easily into your web presence so
    
 ## How to do it?
 
-1) Place the following _<script>_ near the end of your pages, right before the closing `</body>` tag, to enable them. 
+1) Place the following _<script>_ near the end of your pages, right before the closing `</body>` tag, to enable it. 
 
 ```javascript
     <script>
@@ -34,7 +34,7 @@ This allows you to place Medics.Academy content easily into your web presence so
 ```
 
 
-### Bundle:
+#### Bundle:
 If a bundle is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
@@ -63,7 +63,7 @@ If a bundle is what you want to put in place:
 </div>
 ```
 
-### Course:
+#### Course:
 If a Course is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
@@ -78,7 +78,7 @@ If a Course is what you want to put in place:
      data-productId="229658"></div>
 ```
 
-### Style your card:
+#### Style your card:
 
 Always keep the *.medicsacademy-card* class, it is a global-class used by us to init the styles of yours card.
 
