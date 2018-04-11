@@ -1,23 +1,6 @@
 <html>
 <head>
     <title>Demo Medics Academy widget</title>
-
-    <script>
-        (function (w, d, s, o, f, js, fjs) {
-            console.log(w);
-            w['MedicsAcademySalesWidget'] = o;
-            w[o] = w[o] || function () {
-                (w[o].q = w[o].q || []).push(arguments)
-            };
-            js = d.createElement(s);
-            fjs = d.getElementsByTagName(s)[0];
-            js.id = o;
-            js.src = f;
-            js.async = true;
-            fjs.parentNode.insertBefore(js, fjs);
-        }(window, document, 'script', 'ma', 'http://127.0.0.1:8080/ma_widget.js'));
-        ma('init');
-    </script>
 </head>
 
 <body>
@@ -51,6 +34,24 @@
 
 <div class="medicsacademy-card medicsacademy-card_sm"
      data-productId="229082"></div>
+
+
+<script>
+    (function (w, d, s, o, f, js, fjs) {
+        console.log(w);
+        w['MedicsAcademySalesWidget'] = o;
+        w[o] = w[o] || function () {
+            (w[o].q = w[o].q || []).push(arguments)
+        };
+        js = d.createElement(s);
+        fjs = d.getElementsByTagName(s)[0];
+        js.id = o;
+        js.src = f;
+        js.async = true;
+        fjs.parentNode.insertBefore(js, fjs);
+    }(window, document, 'script', 'ma', 'https://cdn.medics.academy/js/widgets/ma_widget.js'));
+    ma('init');
+</script>
 
 </body>
 </html>
