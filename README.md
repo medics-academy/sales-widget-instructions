@@ -98,14 +98,5 @@ Always keep the *.medicsacademy-card* class, it is a global-class used by us to 
 | 240px * 320px | medicsacademy-card_sm |
 | 320px * 400px | medicsacademy-card_md |
 
-
-   #### Small card
-   
-   ![alt text](http://i63.tinypic.com/2ah8xft.png)
-   
-   #### Large card
-   
-   ![alt text](http://i63.tinypic.com/245wkyt.png)
-   
      
 3) Now, you should be all set and see the course card widget implemented on your website. Enjoy it!
