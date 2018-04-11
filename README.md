@@ -42,9 +42,9 @@ Next features will arrive soon!
 
 ### Bundle:
 
-| Tables           |Type               | Description                                                                 |
-| ---------------- |:-----------------:|----------------------------------------------------------------------------:|
-| data-productId   | String || Number  | Define the product ID of the course                                         |
+| Tables           | Type              | Description                                                                 |
+| ---------------- |:-----------------:| ---------------------------------------------------------------------------:|
+| data-productId   | String / Number  | Define the product ID of the course                                         |
 | data-slug        | String            | Define the slug of the course, help us to redirect you at the specific page |
 
 
