@@ -8,7 +8,7 @@
 <hr>
 
 <div align="center">
-   <a href="https://www.join-us.medics.academy/">Jobs</a>
+   <a href="https://www.medics.academy/pages/opportunities">Jobs</a>
    ·
    <a href="https://www.medics.academy/">Medics Academy</a>
 </div>
