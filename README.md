@@ -41,16 +41,16 @@ Next features will arrive soon!
 
 
 ### Bundle:
+If a bundle is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
 | ---------------- |:-----------------:| ---------------------------------------------------------------------------:|
-| data-productId   | String / Number  | Define the product ID of the course                                         |
+| data-productId   | String / Number   | Define the product ID of the course                                         |
 | data-slug        | String            | Define the slug of the course, help us to redirect you at the specific page |
+| data-duration    | Number            | Define the period between the payments                                      |
 
+2) Copy and paste the following code where you want the cards to be displayed:
 
-: __ = 
-*data-slug*: __ = 
-*data-duration*: _Number_ = Define the period between the payments
 ```
 <div class="medicsacademy-card medicsacademy-card_sm"
      data-productId=14910
@@ -59,28 +59,31 @@ Next features will arrive soon!
 </div>
 ```
 
-
-For a free bundle the *data-attribute* has not to be specified!
-
+**IMPORTANT**
+`For a free bundle the *data-attribute* has not to be specified`
 ```
 <div class="medicsacademy-card medicsacademy-card_sm"
      data-productId=16109
      data-slug="the-medics-academy-global-health-bundle">
 </div>
-
 ```
 
 ### Course:
+
+| Tables           | Type              | Description                                                                 |
+| ---------------- |:-----------------:| ---------------------------------------------------------------------------:|
+| data-productId   | String / Number   | Define the product ID of the course                                         |
+
 ```
 <!--Course: -->
 <div class="medicsacademy-card medicsacademy-card_sm"
      data-productId="229658"></div>
 ```
 
+### Style your card:
 
-![alt text](http://i64.tinypic.com/rlb8zd.png)
 
-3) On the right side, you can see the result (as shown below):
+
 
 ![alt text](http://i67.tinypic.com/2iuswb4.png)
 
