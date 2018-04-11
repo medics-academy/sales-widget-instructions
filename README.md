@@ -3,9 +3,9 @@
 ![alt text](http://i63.tinypic.com/esjh4m.png)
 
 
-1. [Courses](#course)
-2. [Bundles](#bundle)
-3. [Style your cards](#style-your-cards)
+1. [Courses](#course:)
+2. [Bundles](#bundle:)
+3. [Style your cards](#style-your-cards:)
 
 
 ## Purpose:
