@@ -3,7 +3,8 @@
 ![alt text](http://i63.tinypic.com/esjh4m.png)
 
 <div align="center">
-[Jobs](https://www.join-us.medics.academy/) · [Medics Academy](https://www.medics.academy/)
+   <a href="https://www.join-us.medics.academy/">Jobs</a>
+   <a href="https://www.medics.academy/">Medics Academy</a>
 </div>
 
 ## Table of contents
