@@ -1,7 +1,8 @@
 # Medics Academy - Sales widgets instructions
 
-<img src="http://i63.tinypic.com/esjh4m.png" alt="Medics Academy" align="center">
-
+<div align="center">
+   <img src="http://i63.tinypic.com/esjh4m.png" alt="Medics Academy">
+</div>
 
 <div align="center">
    <a href="https://www.join-us.medics.academy/">Jobs</a>
