@@ -1,4 +1,4 @@
-# Medics Academy - Course widget implementation instructions
+# Medics Academy - Course widgets instructions
 
 ![alt text](http://i63.tinypic.com/esjh4m.png)
 
@@ -40,8 +40,9 @@ This allows you to place Medics.Academy content easily into your web presence so
 
 ### Bundle:
 
-Paid bundle
-
+*data-productId*: _String || Number_ = Define the product ID of the course
+*data-slug*: _String_ = Define the slug of the course, help us to redirect you at the specific page
+*data-duration*: _Number_ = Define the period between the payments
 ```
 <div class="medicsacademy-card medicsacademy-card_sm"
      data-productId=14910
