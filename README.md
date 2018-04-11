@@ -42,14 +42,14 @@ Next features will arrive soon!
 
 ### Bundle:
 
-| Tables        | Are                |
-| ------------- |:------------------:|
-| col 3 is      | right-aligned      |
-| col 2 is      | centered           |
-| zebra stripes | are neat           |
+| Tables           |Type       | Are                                                           |
+| ---------------- |-----------|---------------------------------------------------------------|
+|*data-productId*  |           |                                                 |
+| col 2 is         |           |                                                    |
+| zebra stripes    |           |                                                      |
 
 
-*data-productId*: _String || Number_ = Define the product ID of the course
+: _String || Number_ = Define the product ID of the course
 *data-slug*: _String_ = Define the slug of the course, help us to redirect you at the specific page
 *data-duration*: _Number_ = Define the period between the payments
 ```
