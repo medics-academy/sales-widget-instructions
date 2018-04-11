@@ -7,14 +7,8 @@
 ## Purpose:
 This document will give you a step-by-step guide on how to insert a course card widget on your website.
 This allows you to place Medics.Academy content easily into your web presence so that you can embed our content in a variety of scenarios, such as:
-
 1. Reference your cards in a Blog and or page article
 2. On the front page of your site, to help you maximise sales or sign ups
-   
-## Features:
-Next features will arrive soon!
-   - [] _UTM tracking_
-   - [] _Include a discount code_
    
 ## How to do it?
 
@@ -100,3 +94,14 @@ Always keep the *.medicsacademy-card* class, it is a global-class used by us to 
 
      
 3) Now, you should be all set and see the course card widget implemented on your website. Enjoy it!
+
+
+## Features:
+Next features will arrive soon!
+   - [ ] _UTM tracking_
+   - [ ] _Include a discount code_
+   
+   
+   
+# Credits:
+@Medics Academy: [Medics Academy](https://www.medics.academy/)
