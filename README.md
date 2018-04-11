@@ -15,7 +15,7 @@
 
 ## Table of contents
 
-1. [Quick Start](#how-to-do-it-?)
+1. [Quick Start](#quick-start)
 1. [Courses](#courses)
 2. [Bundles](#bundles)
 3. [Style your card](#style-your-card)
@@ -28,7 +28,7 @@ This allows you to place Medics.Academy content easily into your web presence so
 1. Reference your cards in a Blog and or page article
 2. On the front page of your site, to help you maximise sales or sign ups
    
-### How to do it?
+### Quick Start
 
 1) Place the following `<script>` near the end of your page you want to display those cards, right before the closing `</body>` tag:
 
