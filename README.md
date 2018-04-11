@@ -29,7 +29,7 @@ This allows you to place Medics.Academy content easily into your web presence so
    
 ### How to do it?
 
-1) Place the following `<script>...</script>` near the end of your pages, right before the closing `</body>` tag, to enable it. 
+1) Place the following `<script>` near the end of your page you want to display those cards, right before the closing `</body>` tag:
 
 ```javascript
     <script>
@@ -69,6 +69,9 @@ If a bundle is what you want to put in place:
      data-duration="3">
 </div>
 ```
+3) Update the current code with the data-productId we sent you via email, if you don't have it please <a href="mailto:hello@medics.academy?Subject=Sales%20widget%20-%20Need%20-%20products%20id" target="_top">contact us</a>
+</p> to require it! 
+
 
 **IMPORTANT:**
 > For a free bundle the *data-duration* has not to be specified, as the following example:
@@ -95,6 +98,8 @@ If a Course is what you want to put in place:
      data-productId="229658"></div>
 ```
 
+3) Update the current code with the data-productId we emailed you! 
+
 #### Style your card
 
 Always keep the *.medicsacademy-card* class, it is a global-class used by us to init the styles of yours card.
@@ -110,7 +115,7 @@ Always keep the *.medicsacademy-card* class, it is a global-class used by us to 
 | 320px * 400px | medicsacademy-card_md |
 
      
-3) Now, you should be all set and see the course card widget implemented on your website. Enjoy it!
+4) Now, you should be all set and see the course card widget implemented on your website. Enjoy it!
 
 
 ## Features
