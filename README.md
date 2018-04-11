@@ -15,8 +15,8 @@
 
 ## Table of contents
 
-1. [Courses](#course)
-2. [Bundles](#bundle)
+1. [Courses](#courses)
+2. [Bundles](#bundles)
 3. [Style your cards](#style-your-cards)
 
 
@@ -51,7 +51,7 @@ This allows you to place Medics.Academy content easily into your web presence so
 ```
 
 
-### Bundles
+#### Bundles
 If a bundle is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
@@ -83,7 +83,7 @@ If a bundle is what you want to put in place:
 </div>
 ```
 
-### Courses
+#### Courses
 If a Course is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
