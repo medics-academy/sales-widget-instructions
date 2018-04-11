@@ -51,7 +51,7 @@ This allows you to place Medics.Academy content easily into your web presence so
 ```
 
 
-#### Bundles
+### Bundles
 If a bundle is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
@@ -83,7 +83,7 @@ If a bundle is what you want to put in place:
 </div>
 ```
 
-#### Courses
+### Courses
 If a Course is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
