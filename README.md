@@ -12,6 +12,7 @@ This allows you to place Medics.Academy content easily into your web presence so
 2. On the front page of your site, to help you maximise sales or sign ups
    
 ## Features:
+Next features will arrive soon!
    - [x] _Include a discount code_
    
 
@@ -38,10 +39,15 @@ This allows you to place Medics.Academy content easily into your web presence so
     </script>
 ```
 
-2) Place the following 
-
 
 ### Bundle:
+
+| Tables        | Are                |
+| ------------- |:------------------:|
+| col 3 is      | right-aligned      |
+| col 2 is      | centered           |
+| zebra stripes | are neat           |
+
 
 *data-productId*: _String || Number_ = Define the product ID of the course
 *data-slug*: _String_ = Define the slug of the course, help us to redirect you at the specific page
