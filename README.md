@@ -1,6 +1,7 @@
 # Medics Academy - Sales widgets instructions
 
-![alt text](http://i63.tinypic.com/esjh4m.png)
+<img src="http://i63.tinypic.com/esjh4m.png" alt="Medics Academy" align="center">
+
 
 <div align="center">
    <a href="https://www.join-us.medics.academy/">Jobs</a>
@@ -14,13 +15,15 @@
 2. [Bundles](#bundle)
 3. [Style your cards](#style-your-cards)
 
-## Purpose:
+
+### Purpose
+
 This document will give you a step-by-step guide on how to insert a course card widget on your website.
 This allows you to place Medics.Academy content easily into your web presence so that you can embed our content in a variety of scenarios, such as:
 1. Reference your cards in a Blog and or page article
 2. On the front page of your site, to help you maximise sales or sign ups
    
-## How to do it?
+### How to do it?
 
 1) Place the following _<script>_ near the end of your pages, right before the closing `</body>` tag, to enable it. 
 
