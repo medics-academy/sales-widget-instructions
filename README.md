@@ -2,8 +2,9 @@
 
 ![alt text](http://i63.tinypic.com/esjh4m.png)
 
-
+<div align="center">
 [Jobs](https://www.join-us.medics.academy/) · [Medics Academy](https://www.medics.academy/)
+</div>
 
 ## Table of contents
 
