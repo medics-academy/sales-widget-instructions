@@ -1,4 +1,4 @@
-# Medics Academy - Course widgets instructions
+# Medics Academy - Sales widgets instructions
 
 ![alt text](http://i63.tinypic.com/esjh4m.png)
 
