@@ -1,0 +1,56 @@
+<html>
+<head>
+    <title>Demo Medics Academy widget</title>
+
+    <script>
+        (function (w, d, s, o, f, js, fjs) {
+            console.log(w);
+            w['MedicsAcademySalesWidget'] = o;
+            w[o] = w[o] || function () {
+                (w[o].q = w[o].q || []).push(arguments)
+            };
+            js = d.createElement(s);
+            fjs = d.getElementsByTagName(s)[0];
+            js.id = o;
+            js.src = f;
+            js.async = true;
+            fjs.parentNode.insertBefore(js, fjs);
+        }(window, document, 'script', 'ma', 'http://127.0.0.1:8080/ma_widget.js'));
+        ma('init');
+    </script>
+</head>
+
+<body>
+
+<!--Bundle-->
+<h1>Bundles:</h1>
+<div class="medicsacademy-card medicsacademy-card_sm"
+     data-productId=14910
+     data-slug="pre-hospital-trauma"
+     data-duration="3">
+</div>
+
+<div class="medicsacademy-card medicsacademy-card_sm"
+     data-productId=16109
+     data-slug="the-medics-academy-global-health-bundle">
+</div>
+
+<hr>
+
+<h1>Courses:</h1>
+<!--Course-->
+<div class="medicsacademy-card medicsacademy-card_sm"
+     data-productId="229658"></div>
+
+<div class="medicsacademy-card medicsacademy-card_md"
+     data-productId="229514"></div>
+
+
+<div class="medicsacademy-card medicsacademy-card_sm"
+     data-productId="229084"></div>
+
+<div class="medicsacademy-card medicsacademy-card_sm"
+     data-productId="229082"></div>
+
+</body>
+</html>
