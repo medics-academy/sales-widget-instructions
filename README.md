@@ -70,8 +70,7 @@ If a bundle is what you want to put in place:
      data-duration="3">
 </div>
 ```
-3) Update the current code with the data-productId, data-slug and _data-duration_ we sent you via email, if you don't have it please <a href="mailto:hello@medics.academy?Subject=Sales%20widget%20-%20Needed%20products%20id" target="_top">contact us</a>
-</p> to require it! 
+3) Update the current code with the _data-productId_, _data-slug_ and *_data-duration_ we sent you via email, if you don't have it please <a href="mailto:hello@medics.academy?Subject=Sales%20widget%20-%20Needed%20products%20id" target="_top">contact us</a> and we will be happy to provide it to you!
 
 
 **IMPORTANT:**
@@ -98,8 +97,7 @@ If a Course is what you want to put in place:
 <div class="medicsacademy-card medicsacademy-card_sm"
      data-productId="229658"></div>
 ```
-3) Update the current code with the data-productId we sent you via email, if you don't have it please <a href="mailto:hello@medics.academy?Subject=Sales%20widget%20-%20Needed%20products%20id" target="_top">contact us</a>
-</p> to require it! 
+3) Update the current code with the _data-productId_ we sent you via email, if you don't have it please <a href="mailto:hello@medics.academy?Subject=Sales%20widget%20-%20Needed%20products%20id" target="_top">contact us</a> and we will be happy to provide it to you!
 
 #### Style your card
 
