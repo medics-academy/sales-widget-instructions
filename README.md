@@ -15,9 +15,10 @@
 
 ## Table of contents
 
+1. [Quick Start](#how-to-do-it-?)
 1. [Courses](#courses)
 2. [Bundles](#bundles)
-3. [Style your cards](#style-your-cards)
+3. [Style your card](#style-your-card)
 
 
 ### Purpose
