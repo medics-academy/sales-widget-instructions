@@ -1,7 +1,7 @@
 <hr>
 <div align="center">
    <h3>Medics Academy</h3>
-   <h1>Sales widgets instructions</h1>
+   <h1>Sales widget instructions</h1>
    <img src="http://i63.tinypic.com/esjh4m.png" alt="Medics Academy">
 </div>
 
