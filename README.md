@@ -1,32 +1,73 @@
-# Course widget implementation instructions
-
+# Medics Academy - Course widget implementation instructions
 
 ![alt text](http://i63.tinypic.com/esjh4m.png)
 
+======
+
+
 ## Purpose:
-This document will give you a step-by-step guide on how to insert a course card widget on your website. Such as this example below:
-
-
-![alt text](http://i64.tinypic.com/fu3o7l.png)
-
-
-This allows you to place Medics.Academy content easily into your web presence so that you can include content in a variety of scenarios, such as:
-
-   1) As part of an offer
-   2) Referenced in a Blog and or page article
-   3) Included with a discount code or as part of an offer
-   4) On the front page of your site, so you could maximise sales or sign ups, but don’t take people away from your front page
-
+This document will give you a step-by-step guide on how to insert a course card widget on your website.
+This allows you to place Medics.Academy content easily into your web presence so that you can embed our content in a variety of scenarios, such as:
+   1) Reference your cards in a Blog and or page article
+   2) On the front page of your site, to help you maximise sales or sign ups
+   3) Included with a discount code or as part of an offer // feature 
 
 ## How to do it?
 
-1) To start, click or copy and paste the link below into your web browser: 
+1) Place the following _<script>_ near the end of your pages, right before the closing </body> tag, to enable them. 
 
-   https://plnkr.co/edit/veScHEOq1o6VOvvk1QZ2?p=preview
+```javascript
+    <script>
+        (function (w, d, s, o, f, js, fjs) {
+            console.log(w);
+            w['MedicsAcademySalesWidget'] = o;
+            w[o] = w[o] || function () {
+                (w[o].q = w[o].q || []).push(arguments)
+            };
+            js = d.createElement(s);
+            fjs = d.getElementsByTagName(s)[0];
+            js.id = o;
+            js.src = f;
+            js.async = true;
+            fjs.parentNode.insertBefore(js, fjs);
+        }(window, document, 'script', 'ma', 'http://127.0.0.1:8080/ma_widget.js'));
+        ma('init');
+    </script>
+```
 
-   This will lead to a plunker with an example of implementation. 
+2) Place the following 
 
-2) On the left side of the screen, there is the code that generates the widget (as shown below):
+
+### Bundle:
+
+Paid bundle
+
+```
+<div class="medicsacademy-card medicsacademy-card_sm"
+     data-productId=14910
+     data-slug="pre-hospital-trauma"
+     data-duration="3">
+</div>
+```
+
+
+For a free bundle the *data-attribute* has not to be specified!
+
+```
+<div class="medicsacademy-card medicsacademy-card_sm"
+     data-productId=16109
+     data-slug="the-medics-academy-global-health-bundle">
+</div>
+
+```
+
+### Course:
+```
+<!--Course: -->
+<div class="medicsacademy-card medicsacademy-card_sm"
+     data-productId="229658"></div>
+```
+
 
 ![alt text](http://i64.tinypic.com/rlb8zd.png)
 
