@@ -42,15 +42,15 @@ Next features will arrive soon!
 
 ### Bundle:
 
-| Tables           |Type       | Are                                                           |
-| ---------------- |-----------|---------------------------------------------------------------|
-|*data-productId*  |           |                                                 |
-| col 2 is         |           |                                                    |
+| Tables           |Type               | Description                                                                 |
+| ---------------- | ----------------- | --------------------------------------------------------------------------- |
+| data-productId   | String || Number  | Define the product ID of the course                                         |
+| data-slug        | String            | Define the slug of the course, help us to redirect you at the specific page |
 | zebra stripes    |           |                                                      |
 
 
-: _String || Number_ = Define the product ID of the course
-*data-slug*: _String_ = Define the slug of the course, help us to redirect you at the specific page
+: __ = 
+*data-slug*: __ = 
 *data-duration*: _Number_ = Define the period between the payments
 ```
 <div class="medicsacademy-card medicsacademy-card_sm"
