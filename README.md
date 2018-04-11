@@ -3,7 +3,7 @@
 ![alt text](http://i63.tinypic.com/esjh4m.png)
 
 
-1. [Course](#course)
+1. [Courses](#course)
 2. [Bundles](#bundle)
 3. [Style your cards](#style-your-cards)
 
@@ -38,7 +38,7 @@ This allows you to place Medics.Academy content easily into your web presence so
 ```
 
 
-#### Bundle
+#### Bundles:
 If a bundle is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
@@ -67,7 +67,7 @@ If a bundle is what you want to put in place:
 </div>
 ```
 
-#### Course
+#### Courses:
 If a Course is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
@@ -82,7 +82,7 @@ If a Course is what you want to put in place:
      data-productId="229658"></div>
 ```
 
-#### Style your card
+#### Style your card:
 
 Always keep the *.medicsacademy-card* class, it is a global-class used by us to init the styles of yours card.
 
