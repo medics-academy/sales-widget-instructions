@@ -3,6 +3,10 @@
 ![alt text](http://i63.tinypic.com/esjh4m.png)
 
 
+1. [Course](#course)
+2. [Bundles](#bundle)
+3. [Style your cards](#style-your-cards)
+
 
 ## Purpose:
 This document will give you a step-by-step guide on how to insert a course card widget on your website.
@@ -34,7 +38,7 @@ This allows you to place Medics.Academy content easily into your web presence so
 ```
 
 
-#### Bundle:
+#### Bundle
 If a bundle is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
@@ -63,7 +67,7 @@ If a bundle is what you want to put in place:
 </div>
 ```
 
-#### Course:
+#### Course
 If a Course is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
@@ -78,7 +82,7 @@ If a Course is what you want to put in place:
      data-productId="229658"></div>
 ```
 
-#### Style your card:
+#### Style your card
 
 Always keep the *.medicsacademy-card* class, it is a global-class used by us to init the styles of yours card.
 
