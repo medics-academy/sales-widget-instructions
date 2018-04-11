@@ -13,9 +13,9 @@ This allows you to place Medics.Academy content easily into your web presence so
    
 ## Features:
 Next features will arrive soon!
-   - [x] _Include a discount code_
+   - [] _UTM tracking_
+   - [] _Include a discount code_
    
-
 ## How to do it?
 
 1) Place the following _<script>_ near the end of your pages, right before the closing </body> tag, to enable them. 
@@ -34,7 +34,7 @@ Next features will arrive soon!
             js.src = f;
             js.async = true;
             fjs.parentNode.insertBefore(js, fjs);
-        }(window, document, 'script', 'ma', 'http://127.0.0.1:8080/ma_widget.js'));
+        }(window, document, 'script', 'ma', 'https://cdn.medics.academy/js/widgets/ma_widget.js'));
         ma('init');
     </script>
 ```
@@ -59,8 +59,9 @@ If a bundle is what you want to put in place:
 </div>
 ```
 
-**IMPORTANT**
-`For a free bundle the *data-attribute* has not to be specified`
+**IMPORTANT:**
+> For a free bundle the *data-duration* has not to be specified, as the following example:
+
 ```
 <div class="medicsacademy-card medicsacademy-card_sm"
      data-productId=16109
@@ -69,10 +70,13 @@ If a bundle is what you want to put in place:
 ```
 
 ### Course:
+If a Course is what you want to put in place:
 
 | Tables           | Type              | Description                                                                 |
 | ---------------- |:-----------------:| ---------------------------------------------------------------------------:|
 | data-productId   | String / Number   | Define the product ID of the course                                         |
+
+2) Copy and paste the following code where you want the cards to be displayed:
 
 ```
 <!--Course: -->
@@ -82,19 +86,19 @@ If a bundle is what you want to put in place:
 
 ### Style your card:
 
+Always keep the *.medicsacademy-card* class, it is a global-class used by us to init the styles of yours card.
+
+`class="medicsacademy-card"`
+
+ The card can come in two different sizes, choose the one that suits you best.
+ To choose the size of your card add just _ONE_ of the following class:
+
+| Size          | Class                 |
+| ------------- | ---------------------:|
+| 240px * 320px | medicsacademy-card_sm |
+| 320px * 400px | medicsacademy-card_md |
 
 
-
-![alt text](http://i67.tinypic.com/2iuswb4.png)
-
-4) To get the code up and running on your website, simply copy the <script></script> tag and everything that is inside it (as shown below) and paste it within your website’s html <head></head> tags;
-
-![alt text](http://i68.tinypic.com/30rry91.png)
-
-5) Once this is done, copy the actual card element and paste it anywhere you want the card to show on your website. 
-
-   The card can come in two different sizes, choose the one that suits you best:
-   
    #### Small card
    
    ![alt text](http://i63.tinypic.com/2ah8xft.png)
@@ -103,4 +107,5 @@ If a bundle is what you want to put in place:
    
    ![alt text](http://i63.tinypic.com/245wkyt.png)
    
-6) Now, you should be all set and see the course card widget implemented on your website.
+     
+3) Now, you should be all set and see the course card widget implemented on your website. Enjoy it!
