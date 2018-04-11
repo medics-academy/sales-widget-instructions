@@ -1,10 +1,13 @@
 # Medics Academy 
 
+<hr>
 
 <div align="center">
-   <h2> Sales widgets instructions</h2>
+   <h1> Sales widgets instructions</h1>
    <img src="http://i63.tinypic.com/esjh4m.png" alt="Medics Academy">
 </div>
+
+<hr>
 
 <div align="center">
    <a href="https://www.join-us.medics.academy/">Jobs</a>
