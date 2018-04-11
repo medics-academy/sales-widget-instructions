@@ -1,6 +1,8 @@
-# Medics Academy - Sales widgets instructions
+# Medics Academy 
+
 
 <div align="center">
+   <h2> Sales widgets instructions</h2>
    <img src="http://i63.tinypic.com/esjh4m.png" alt="Medics Academy">
 </div>
 
