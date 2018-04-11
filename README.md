@@ -9,7 +9,7 @@ This document will give you a step-by-step guide on how to insert a course card 
 This allows you to place Medics.Academy content easily into your web presence so that you can embed our content in a variety of scenarios, such as:
    1) Reference your cards in a Blog and or page article
    2) On the front page of your site, to help you maximise sales or sign ups
-   3) Included with a discount code or as part of an offer // feature 
+   _3) Included with a discount code or as part of an offer_ `<= we are working on it!`
 
 ## How to do it?
 
